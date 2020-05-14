@@ -9,6 +9,6 @@ public class Controller {
 
 	@GetMapping("/")
 	public String greeting() {
-		return "Hello";
+		return "New Text";
 	}
 }
